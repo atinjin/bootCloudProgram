@@ -10,5 +10,6 @@
 
 /bin/
 /build/
+/userData/
 .gradle
 .settings
